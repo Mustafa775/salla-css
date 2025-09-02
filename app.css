@@ -19471,26 +19471,26 @@ select {
   justify-content: center;
 }.product-index-page-header .text-end .breadcrumbs ol {
   justify-content: flex-end;
-}#app custom-salla-product-card .s-product-options-wrapper {
+}#app #sallaProduct .s-product-options-wrapper {
   margin: 0px;
   background-color: transparent;
   padding: 0px;
-}#app custom-salla-product-card .s-product-options-wrapper .s-modal-body{padding:0}#app custom-salla-product-card .s-product-options-colors-wrapper input[type=radio]+label span {
+}#app #sallaProduct .s-product-options-wrapper .s-modal-body{padding:0}#app #sallaProduct .s-product-options-colors-wrapper input[type=radio]+label span {
   margin-bottom: 0px;
   height: 1.25rem;
   width: 1.25rem;
-}#app custom-salla-product-card .s-product-options-colors-wrapper input[type=radio]+label span:after {
+}#app #sallaProduct .s-product-options-colors-wrapper input[type=radio]+label span:after {
   height: 0.625rem;
   width: 0.625rem;
   --tw-bg-opacity: 1;
   background-color: rgba(255, 255, 255, 1);
   background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
-}#app custom-salla-product-card .s-product-options-option {
+}#app #sallaProduct .s-product-options-option {
   display: flex;
-}#app custom-salla-product-card .s-product-options-colors-item {
+}#app #sallaProduct .s-product-options-colors-item {
   margin: 0.25rem;
   width: 1.25rem;
-}#app custom-salla-product-card .s-product-options-colors-item label>div,#app custom-salla-product-card .s-product-options-option-label {
+}#app #sallaProduct .s-product-options-colors-item label>div,#app #sallaProduct .s-product-options-option-label {
   display: none;
 }#app .s-products-list-filters-results {
   row-gap: 2rem;
