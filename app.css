@@ -13397,15 +13397,15 @@ select {
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }#app .s-user-menu-dropdown,#app .form-input {
   border-radius: var(--border-radius-upto-5);
-}salla-products-list {
+}sallaProductsList {
   visibility: visible;
   display: block;
-}salla-products-list .tooltip-content{visibility:visible;opacity:1;transform:translate(82px, -110px)}salla-products-list .s-infinite-scroll-wrapper {
+}sallaProductsList .tooltip-content{visibility:visible;opacity:1;transform:translate(82px, -110px)}sallaProductsList .s-infinite-scroll-wrapper {
   margin-top: 2.5rem;
-}salla-products-list.with-large-loading-btn .s-button-btn.s-infinite-scroll-btn {
+}sallaProductsList.with-large-loading-btn .s-button-btn.s-infinite-scroll-btn {
   min-height: 56px;
   min-width: 240px;
-}salla-products-list.hydrated .cards-placeholder {
+}sallaProductsList.hydrated .cards-placeholder {
   display: none;
 }#app .swiper-lazy-preloader {
   position: relative;
